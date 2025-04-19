@@ -14,7 +14,7 @@ tags: ["astro", "blogging", "learning in public"]
 
 
 
-###我为什么会选用Astro
+### 我为什么会选用Astro
 
 最主要的条件是**没钱**，我是真他妈没钱，动态网站要服务器，勾八服务器贵的要死，买他妈一年够要我命了，Astro可以静态部署，对我来说是一个很好的选择（当然，被grok老师和deepseek大人忽悠也是一方面）Astro我只需要一部手机即可轻松完成部署，通过Termuxzero，Gitpage与Vercel来部署真的很简单，并且最重要的一点，他们都是免费的
 
